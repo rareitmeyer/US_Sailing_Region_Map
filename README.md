@@ -17,6 +17,20 @@ those lakes, excluding Pennsylvania, all of the states of Ohio and
 West Virginia and Kentucky, and Indiana something something
 something." But I haven't been able to find that document.
 
+
+# Update
+
+I have heard that US Sailing defined the areas by zip code a long time
+ago, but the list of which areas have which zip codes is not
+available. It would be a long list: there's something like 40,000 zip
+codes.
+
+In the effort to find older zipcode data, I stumbled across a nice
+blog post that might be worth a read:
+
+[ZIP Codes are Not Areas](https://manifold.net/doc/mfd9/index.htm#zip_codes_are_not_areas.htm).
+
+
 # Steps
 
 I'm trying to better understand the "Area G" area, so I've grabbed the
