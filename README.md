@@ -18,19 +18,6 @@ West Virginia and Kentucky, and Indiana something something
 something." But I haven't been able to find that document.
 
 
-# Update
-
-I have heard that US Sailing defined the areas by zip code a long time
-ago, but the list of which areas have which zip codes is not
-available. It would be a long list: there's something like 40,000 zip
-codes.
-
-In the effort to find older zipcode data, I stumbled across a nice
-blog post that might be worth a read:
-
-[ZIP Codes are Not Areas](https://manifold.net/doc/mfd9/index.htm#zip_codes_are_not_areas.htm).
-
-
 # Steps
 
 I'm trying to better understand the "Area G" area, so I've grabbed the
@@ -66,13 +53,32 @@ That didn't look right either.
 So then I thought it might be bounded by major highways, and I added those in green:
 
 ![US Sailing Area Map for Areas G and J with CONUS counties and rivers and highways](./US_Sailing_Areas_G_and_J_with_CONUS_Counties_and_Rivers_and_Highways.png)
-image.png
+
 
 # Use
 
 To use this you'll need to un-xz the
 US_CONUS_counties_clipped_to_NE_Land.geojson file, and open in
 QGIS. Then point QGIS at the local copies of each layer.
+
+
+# Update
+
+I have heard that US Sailing defined the areas by zip code a long time
+ago, but the list of which areas have which zip codes is not
+available. It would be a long list: there's something like 40,000 zip
+codes.
+
+In the effort to find older zipcode data, I stumbled across a nice
+blog post that might be worth a read:
+
+[ZIP Codes are Not Areas](https://manifold.net/doc/mfd9/index.htm#zip_codes_are_not_areas.htm).
+
+Which leads to a ZCTA5 overlay that looks like the following if you download
+the 2022 ZCTA tiger line files.
+
+![US Sailing Area Map for Areas G and J with ZCTA5](./US_Sailing_Areas_G_and_J_with_ZCTA5.png)
+
 
 # Credits
 
