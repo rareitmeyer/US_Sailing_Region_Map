@@ -77,8 +77,7 @@ blog post that might be worth a read:
 Which leads to a ZCTA5 overlay that looks like the following if you download
 the 2022 ZCTA tiger line files.
 
-![US Sailing Area Map for Areas G and J with ZCTA5](./US_Sailing_Areas_G_and_J_with_ZCTA5.png)
-
+![US Sailing Area Map for Areas G and J with ZCTA5](./US_Sailing_Areas_G_and_J_with_ZCTA5s.png)
 
 # Credits
 
